@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Valerian Anderson 
-tagline: personal website
+title: 
+tagline: 
 description: Thoughts and miscellany
 ---
 
