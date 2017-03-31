@@ -19,7 +19,8 @@ description: Thoughts and miscellany
     </div>
 </div>
 
-
+This site is under construction.... I'm a software developer for higher ed, and teach occasionally as well.
+The best way to contact me is by [email](mailto:valeriananderson@gmail.com)
 
 For me, the painful aspects of making a website are
 
