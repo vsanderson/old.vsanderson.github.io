@@ -16,3 +16,4 @@ With [GitHub Pages](http://pages.github.com), you just write things in
 [GitHub](http://github.com) hosts the site for you, and you just push
 material to your GitHub repository with `git add`, `git commit`, and
 `git push`.
+
